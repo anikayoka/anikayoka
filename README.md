@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nika
-- Just out here learning to code
+- 👋 Hi, I’m Anika!
+- Just out here sharpening my coding skills!
 
 <!---
 anikayoka/anikayoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
